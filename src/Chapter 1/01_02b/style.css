@@ -5,10 +5,11 @@ body {
 img {
   height: auto;
   width: 20rem;
+  display: block;
 }
 
 .image-box {
-    border: 1px solid hsl(0, 0%, 75%);
+  border: 1px solid hsl(0, 0%, 75%);
 }
 
 .container {
